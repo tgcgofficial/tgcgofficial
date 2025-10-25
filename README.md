@@ -4,8 +4,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tgcgofficial&count_private=true&show_icons=true&theme=dark)](https://github.com/tgcgofficial/)
 
 <details>
-	summary>:zap: Github Stats</summary>
-  <img align="left" alt="tgcg_official’s Github Stats" src="https://github-readme-stats-self-theta-51.vercel.app/api?username=tgcg_official&repo=74261102" />
+	<summary>:zap: Github Stats</summary>
+  <img align="left" alt="tgcg_official’s Github Stats" src="https://github-readme-stats-self-theta-51.vercel.app/api?username=tgcgofficial&repo=74261102" />
 </details>
 
 <!--
