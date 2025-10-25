@@ -5,7 +5,7 @@
 
 <details>
 	summary>:zap: Github Stats</summary>
-  <img align=“left“ alt="tgcg_official’s" Github Stats“ src=„github-readme-stats-self-theta-51.vercel.app/api?username=tgcg_official“/>
+  <img align="left" alt="tgcg_official’s Github Stats" src="https://github-readme-stats-self-theta-51.vercel.app/api?username=tgcg_official&repo=74261102" />
 </details>
 
 <!--
