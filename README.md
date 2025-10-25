@@ -1,12 +1,7 @@
 ### Hi there 👋
 ### You can find my [Projects](https://github.com/tgcgofficial) here
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tgcgofficial&count_private=true&show_icons=true&theme=dark)](https://github.com/tgcgofficial/)
-
-<details>
-	<summary>:zap: Github Stats</summary>
-  <img align="left" alt="tgcg_official’s Github Stats" src="https://github-readme-stats-self-theta-51.vercel.app/api?username=tgcgofficial&repo=74261102" />
-</details>
+[![GitHub stats](https://github-readme-stats-self-theta-51.vercel.app/api?username=tgcgofficial&count_private=true&show_icons=true&theme=dark)](https://github.com/tgcgofficial/)
 
 <!--
 **tgcgofficial/tgcgofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
